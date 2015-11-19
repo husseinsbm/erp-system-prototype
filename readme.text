@@ -1,0 +1,6 @@
+link buka localhost/erp/public
+
+user admin
+pass admin
+
+nama db erp_db
